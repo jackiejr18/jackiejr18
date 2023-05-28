@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jackie</h1>
 
-<h2 "align="center"> I am a self taught Frontend Web Devoloper from Houston,TX. I'm a student of graphic design and a fan of video games! The 8-Bit art style is my favorite, which will explain the underlying theme of my profile. Lets code em all! </h2>
+<h2 "align="center"> I am a self taught Frontend Web Devoloper from Houston,TX. I'm a student of graphic design and a fan of video games! The 8-Bit art style is my favorite, which will explain the underlying theme of my profile. Lets code em all! (Alot of my repos are clones from other developers. </h2>
 
 
 <h3 align="left">Languages and Tools:</h3>
